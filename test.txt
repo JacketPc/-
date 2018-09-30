@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 what the fuck
 
 time
+=======
+sqqqqq
+>>>>>>> parent of a00dce2... test 9/30
